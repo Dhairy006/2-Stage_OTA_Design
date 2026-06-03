@@ -118,13 +118,13 @@ Selected operating-point results obtained from LTspice:
 
 ### Performance Assessment
 
-✅ Gain requirement satisfied
+- Gain requirement satisfied
 
-✅ Stable frequency response
+- Stable frequency response
 
-✅ Adequate phase margin
+- Adequate phase margin
 
-✅ Proper compensation achieved
+- Proper compensation achieved
 
 ---
 
